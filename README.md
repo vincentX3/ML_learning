@@ -8,12 +8,15 @@ The repository is used to record the process of learning Machine Learning.
 ## Contents
 
 ### 1. Paper Summary 论文总结
+#### 1.1 GNN
 
 1. [Network Representation Learning: A Survey](./paper/GNN/01Network_Representation_Learning_A_Survey.md)
 2. [Metapath-guided Heterogeneous Graph Neural Network for
    Intent Recommendation](./paper/GNN/02MetapathGuidedHeterogeneousGNNForIntentRecommendation.md)
 3. [A Semi-supervised Graph Attentive Network for Financial Fraud Detection](./paper/GNN/03ASemi-supervisedGraphAttentiveNetworkforFinancialFraudDetection.md)
 
+#### 1.2 Recommender Systerm
+1. [DeepGBM: A Deep Learning Framework Distilled by GBDT for Online Prediction Tasks](./RecommenderSysterm/01DeepGBM.md)
 
 
 ### 2.  Notes ML相关笔记
