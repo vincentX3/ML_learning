@@ -16,7 +16,7 @@ The repository is used to record the process of learning Machine Learning.
 3. [A Semi-supervised Graph Attentive Network for Financial Fraud Detection](./paper/GNN/03ASemi-supervisedGraphAttentiveNetworkforFinancialFraudDetection.md)
 
 #### 1.2 Recommender Systerm
-1. [DeepGBM: A Deep Learning Framework Distilled by GBDT for Online Prediction Tasks](./RecommenderSysterm/01DeepGBM.md)
+1. [DeepGBM: A Deep Learning Framework Distilled by GBDT for Online Prediction Tasks](./paper/RecommenderSysterm/01DeepGBM.md)
 
 
 ### 2.  Notes ML相关笔记
