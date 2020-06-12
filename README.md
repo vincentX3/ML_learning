@@ -9,10 +9,10 @@ The repository is used to record the process of learning Machine Learning.
 
 ### 1. Paper Summary 论文总结
 
-1. [Network Representation Learning: A Survey](./paper/01Network_Representation_Learning_A_Survey.md)
+1. [Network Representation Learning: A Survey](./paper/GNN/01Network_Representation_Learning_A_Survey.md)
 2. [Metapath-guided Heterogeneous Graph Neural Network for
-   Intent Recommendation](./paper/02MetapathGuidedHeterogeneousGNNForIntentRecommendation.md)
-3. [A Semi-supervised Graph Attentive Network for Financial Fraud Detection](./paper/03ASemi-supervisedGraphAttentiveNetworkforFinancialFraudDetection.md)
+   Intent Recommendation](./paper/GNN/02MetapathGuidedHeterogeneousGNNForIntentRecommendation.md)
+3. [A Semi-supervised Graph Attentive Network for Financial Fraud Detection](./paper/GNN/03ASemi-supervisedGraphAttentiveNetworkforFinancialFraudDetection.md)
 
 
 

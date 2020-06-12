@@ -126,7 +126,7 @@ $X_{S}^{F}=\left\{x_{j}^{F} | v_{j} \in G_{S}\right\}, \quad x_{j}^{F}=\left[x_{
 
 综上，对于整个解释器，要优化的目标函数即是：
 
-$\max _{G_{S}, F} M I\left(Y,\left(G_{S}, F\right)\right)=H(Y)-H\left(Y | G=G_{S}, X=X_{S}^{F}\right)=$
+$\max _{G_{S}, F} M I\left(Y,\left(G_{S}, F\right)\right)=H(Y)-H\left(Y | G=G_{S}, X=X_{S}^{F}\right)$
 
 此外，paper中提到使用*reparametrization*的trick来学习参数掩码。
 
